@@ -1,0 +1,15 @@
+{
+  "name": "desktop-wallpaper",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "electron-builder": "^20.5.1"
+  }
+}
